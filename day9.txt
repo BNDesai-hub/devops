@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello, this is text document.
+=======
+
+Hello, this is text doc
+>>>>>>> 462808e (First commit)
